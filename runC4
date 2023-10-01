@@ -1,0 +1,1 @@
+ruby src/c4.rb "$@"
